@@ -16,6 +16,6 @@ Each one lives in `skills/<name>/SKILL.md`.
 This collection builds on ideas from Matt Pocock and Brian Madison’s agent workflow methodology. I love their work.
 
 - `/create-cli` is from Peter Steinberger’s `agent-scripts` repo.
-- `/frontend-design` is from Peter Steinberger’s `agent-scripts` repo.
+- `/frontend-design` is from Anthropic
 - `/grill-me` is from Matt Pocock’s `skills` repo.
 - `/brainstorm` is an adaptation of the BMAD brainstorm skill.
