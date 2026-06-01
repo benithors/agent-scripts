@@ -1,14 +1,21 @@
-# Skills
+# Agent Scripts
 
-A public collection of reusable agent workflows.
+A public collection of reusable agent workflows and prompts.
 
-## Available
+## Skills
 
 - `/brainstorm` — generate and explore ideas before choosing a direction.
-- `/grill-me` — interview the user relentlessly to stress-test a plan or design.
-- `/plan` — turn an agreed goal into an actionable execution plan.
+- `/grill-me` — interview the user relentlessly to stress-test a design or approach.
 
 Each one lives in `skills/<name>/SKILL.md`.
+
+Skills are agent-discoverable workflows. Keep something as a skill only when it is useful for an agent to invoke it from task context.
+
+## Prompts
+
+- `prompts/security-audit.md` — phased, report-only security audit prompt.
+
+Prompts are manual, explicit-use instructions. They live outside `skills/` so agents do not invoke every workflow by themselves.
 
 ## Acknowledgements
 
