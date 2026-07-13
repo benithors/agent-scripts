@@ -2,6 +2,8 @@
 
 A public collection of reusable agent workflows and prompts.
 
+To install a skill, point your agent to the skill you want and ask it to install it.
+
 ## Skills
 
 - `/agent-browser` — automate browser, website, and Electron app workflows with the agent-browser CLI.
